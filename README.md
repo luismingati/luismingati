@@ -6,7 +6,7 @@ I'm a passionate **Web Developer** with experience in **Front-end and Back-end d
 
 - 🌱 Currently learning: **Ruby on Rails**
 - 🔭 Working on: **Plus86 Sneakers**
-- 🌍 Languages: **Portuguese (BR), English, Java, Kotlin, Python, Javascript, Typescript**
+- 🌍 Languages: **Portuguese (BR), English, Java, Kotlin, Python, Javascript, Typescript, Ruby**
 - 📫 How to reach me: **luismingati@gmail.com**
 
 ## My Skills 🧠
