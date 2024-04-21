@@ -29,6 +29,13 @@ I'm a passionate **Web Developer** with experience in **Front-end and Back-end d
 ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
+## My Stats 🧑🏻‍💻
+![LuisMingati's GitHub stats](https://github-readme-stats.vercel.app/api?username=luismingati&show_icons=true&theme=dark)
+
+## Top Langs 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luismingati&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## Get in Touch 📬
 
 - **[LinkedIn](https://www.linkedin.com/in/luismingati)**
