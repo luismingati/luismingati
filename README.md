@@ -6,7 +6,8 @@ I'm a passionate **Web Developer** with experience in **Front-end and Back-end d
 
 - 🌱 Currently learning: **Ruby on Rails**
 - 🔭 Working on: **[Plus86 Sneakers](https://github.com/luismingati/plus86-sneakers)**
-- 🌍 Languages: **Portuguese (BR), English, Java, Kotlin, Python, Javascript, Typescript, Ruby**
+- 💻 Skills: **Java, Kotlin, Python, Javascript, Typescript, Ruby**
+- 🌍 Languages: **Portuguese (BR) 🇧🇷, English 🇺🇸**
 - 📫 How to reach me: **luismingati@gmail.com**
 
 ## My Skills 🧠
@@ -34,7 +35,6 @@ I'm a passionate **Web Developer** with experience in **Front-end and Back-end d
 
 ## Top Langs 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luismingati&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ## Get in Touch 📬
 
