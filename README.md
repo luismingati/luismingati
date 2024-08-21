@@ -5,7 +5,7 @@
 I'm a passionate **Web Developer** with experience in **Front-end and Back-end development**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 - 🌱 Currently learning: **Go (Golang)**
-- 🔭 Working on: **[Plus86 Sneakers](https://github.com/luismingati/plus86-sneakers)**
+- 🔭 Working on: **BrConsultoria**
 - 💻 Skills: **Java, Kotlin, Python, Javascript, Typescript, Ruby**
 - 🌍 Languages: **Portuguese (BR) 🇧🇷, English 🇺🇸**
 - 📫 How to reach me: **luismingati@gmail.com**
