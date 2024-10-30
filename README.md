@@ -34,7 +34,7 @@ I'm a passionate **Web Developer** with experience in **Front-end and Back-end d
 ![LuisMingati's GitHub stats](https://github-readme-stats.vercel.app/api?username=luismingati&show_icons=true&theme=dark)
 
 ## Top Langs 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luismingati&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luismingati&hide_progress=true&hide=python,html,css)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Get in Touch 📬
 
